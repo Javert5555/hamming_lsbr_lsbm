@@ -1,8 +1,8 @@
-# from LSBR_BMP import LSBR_BMP
-# from LSBM_BMP import LSBM_BMP
+from LSBR_BMP import LSBR_BMP
+from LSBM_BMP import LSBM_BMP
 from HammingStego import HammingStego
-from test import LSBR_BMP
-from test2 import LSBM_BMP
+# from test import LSBR_BMP
+# from test2 import LSBM_BMP
 # from test3 import HammingStego
 import tkinter as tk
 from tkinter import filedialog
